@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/uelKf0-p)
+# Tekstil Mağazası İçin Müşteri Kayıt ve Çekiliş Uygulaması
+
+Bu projeyi yapma sebebim, birden fazla tekstil mağazası olan arkadaşımın müşterilerin takibini ve müşterilere çeşitli çekilişlerle satış adetlerini arttırmak istiyor. Amacım onun isteği doğrultusunda müşterileri sisteme kayıt ederek çekilişe katılmalarını sağlamak. Kullanacak olduğum tabloların bir kısmını şu şekilde sıralayabilirim:
+
+* Mağaza Sistemi
+* Potansiyel Müşteri
+* Promosyon Ürün
+* Katılımcı Promosyon
